@@ -6,7 +6,6 @@ import java.util.ArrayList;
 public class Contador {
 
     public static void main(String[] args) {
-        if (args.length < 3) return;
 
         String rutaFichero = args[0];
         char letraBuscar = args[1].charAt(0);

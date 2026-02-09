@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class ProcesosFicheros {
 
     public static void main(String[] args) {
-        if (args.length < 3) return;
 
         String nombreFicheroEntrada = args[0];
         String nombreFicheroSalida = args[1];
